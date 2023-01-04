@@ -1,0 +1,20 @@
+{
+  "name": "vue-next-fork",
+  "version": "0.0.1",
+  "private": "true",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TaroXin <15029352778@163.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@taroxin/eslint-config": "^0.2.5",
+    "eslint": "^8.31.0"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
